@@ -1,0 +1,7 @@
+{
+    "python.linting.flake8Enabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "d:\\Cloud\\MEGA\\Dev\\wxPython\\wxenv\\Scripts\\python.exe",
+    "python.formatting.provider": "autopep8"
+}
